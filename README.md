@@ -1,6 +1,5 @@
-🇯🇲
 <h3> 
-I’m Michael Cowan <br/>
+I’m Michael Cowan 🇯🇲 <br/>
 JavaScript Engineer @ Superformula / MGM Resorts
 </h3>
 
