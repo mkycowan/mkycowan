@@ -1,6 +1,6 @@
 <h3> 
 I’m Michael Cowan 🇯🇲 <br/>
-JavaScript Engineer @ Superformula / MGM Resorts
+JavaScript Engineer @ Superformula / MGM Resorts International
 </h3>
 
 #### Design Spec ✦ 
